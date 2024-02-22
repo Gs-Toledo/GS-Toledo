@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Giovanni Toledo</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center">Hello there!👋 I'm Giovanni Toledo.</h1>
+<h3 align="center">Your friendly neighborhood Front-End Dev from Brazil.</h3>
+<h3 align="center">Embarking on a journey to craft Front-End magic through the enchanting realms of JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkhnessxk&label=Profile%20views&color=0e75b6&style=flat" alt="darkhnessxk" /> </p>
 
